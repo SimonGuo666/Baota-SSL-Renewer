@@ -133,6 +133,12 @@ xvfb-run python3 auto.py
 
 Contributions are welcome! If you find that BT-Panel's frontend has been updated, causing selectors to fail, or if you have any ideas for improvements, feel free to submit a Pull Request or create an Issue.
 
+## 致谢 (Acknowledgements)
+
+特别感谢**北京市第三十五中学**在其 **STEAM 活动周**期间提供的宝贵时间和机会，使得本项目的开发成为可能。这段时间的专注研究与实践，是 `BaoTa-SSL-Renewer` 诞生的基石。
+
+Special thanks to **Beijing No. 35 High School** for providing the invaluable time and opportunity during its **STEAM Week**. This period of focused research and practice was the cornerstone for the creation of `BaoTa-SSL-Renewer`.
+
 ## 许可证 (License)
 本项目采用 [MIT License](https://opensource.org/licenses/MIT) 授权。
 This project is licensed under the MIT License.
